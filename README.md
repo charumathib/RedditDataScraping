@@ -1,6 +1,6 @@
 # RedditDataScraping
 
-Data scraping project using the PRAW library that tracks the frequency of mentions of the word "harvard" in the subreddits of the other 8 ivy-leagues, and looks at the context in which Harvard is mentioned.
+Data scraping project using the PRAW library that tracks the frequency of mentions of the word "harvard" in the comments/titles of the top 10,000 posts in the subreddits of ivy leagues (excluding Harvard itself).
 
 Mention Frequency:
 1. Yale 62
